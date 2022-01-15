@@ -1,5 +1,5 @@
 - 💠 Hi, I’m @AhindraD
-- 🌱 I’m currently learning MRN Stack
+- 🌱 I’m currently learning MERN Stack
 
 <!---
 AhindraD/AhindraD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
