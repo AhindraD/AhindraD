@@ -11,8 +11,8 @@
 
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="ahindrad" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="ahindrad" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="ahindrad" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="ahindrad" />
   <img align="center" src="https://www.codewars.com/users/AhindraD/badges/large" alt="ahindra-codewars" />
  <div align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ahindrad" />
