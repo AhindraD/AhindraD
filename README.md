@@ -47,7 +47,7 @@ A platform which can connect patients with best doctors from around the world.
  <br/>
   <br/>
  
- # <a href="https://spotify-profile-app.netlify.app/">Spotify Profile App</a>
+ # <a href="https://spotify-profile-app.netlify.app/">Spotify Profile App🎼</a>
 #### ⚡️ Built with
 - ReactJS
 - Styled-components
