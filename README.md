@@ -79,7 +79,11 @@ Spotify Profile overview app which will fetch a Spotify user's info, recent acti
 - Socket.IO
 #### About
 This is a Full-Stack App.
-An application that follows the blended learning techniques. This application will be used in live physical and online sessions. The target of this application is to transform the normal bored sessions into interactive one. This will enable the presenter to interact with his audience in a funny yet systematic way during the session. 
+An application that follows the blended learning techniques. 
+
+This application will be used in live physical and online sessions. 
+The target of this application is to transform the normal bored sessions into interactive one. 
+This will enable the presenter to interact with his audience in a funny yet systematic way during the session. 
 
 
 #### Screenshots
@@ -99,11 +103,14 @@ An application that follows the blended learning techniques. This application wi
  # <a href="https://tic-tac-toe-multiplay.netlify.app/">Tic Tac Toe Multiplayer🍭</a>
 #### ⚡️ Built with
 - ReactJS
+- Express
 - Web Sockets
 - React-Router-Dom
 #### About
 A multiplayer Tic Tac Toe game that can be played over the internet (using  Websockets).
+
 PLayer 1 creates a room with a random unique ID and gets assigned with “X”. Waits for player 2 to join.
+
 PLayer 2 joins the room with that unique ID and gets assigned with “O”. Game begins.
 
 
