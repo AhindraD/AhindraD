@@ -45,7 +45,9 @@ A platform which can connect patients with best doctors from around the world.
  <img src = "https://github.com/AhindraD/DocSeek---Frontend/blob/master/images/rsz_1patient-book-appointment.png?raw=true" alt="Booking Appointment" width="48%"/>
  </div>
  <br/>
-  <br/>
+ <br/>
+ <br/>
+ <br/>
  
  # <a href="https://spotify-profile-app.netlify.app/">Spotify Profile App🎼</a>
 #### ⚡️ Built with
@@ -63,6 +65,9 @@ Spotify Profile overview app which will fetch a Spotify user's info, recent acti
  <img src = "https://github.com/AhindraD/Spotify-App/blob/master/screenshots/snap3.PNG?raw=true" alt = "Top Songs" width="48%"/>
  <img src = "https://github.com/AhindraD/Spotify-App/blob/master/screenshots/spotify-login.PNG?raw=true" alt="Login" width="48%"/>
  </div>
+ <br/>
+ <br/>
+ <br/>
  <br/>
  
 
@@ -84,6 +89,9 @@ An application that follows the blended learning techniques. This application wi
  <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/start-2.PNG?raw=true" alt = "Start Screen" width="48%"/>
  <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/ques-1.PNG?raw=true" width="48%"/>
  </div>
+ <br/>
+ <br/>
+ <br/>
  <br/>
 
 
