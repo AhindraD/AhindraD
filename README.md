@@ -96,7 +96,7 @@ An application that follows the blended learning techniques. This application wi
 
 
 
- # <a href="https://tic-tac-toe-multiplay.netlify.app/">Tic Tac Toe Multiplayer🎮ga</a>
+ # <a href="https://tic-tac-toe-multiplay.netlify.app/">Tic Tac Toe Multiplayer🍭</a>
 #### ⚡️ Built with
 - ReactJS
 - Web Sockets
