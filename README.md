@@ -66,7 +66,25 @@ Spotify Profile overview app which will fetch a Spotify user's info, recent acti
  <br/>
  
 
+ # <a href="https://quizup-edu.netlify.app/">QuizUP App✍🏻</a>
+#### ⚡️ Built with
+- ReactJS
+- Express
+- MongoDB
+- Socket.IO
+#### About
+This is a Full-Stack App.
+An application that follows the blended learning techniques. This application will be used in live physical and online sessions. The target of this application is to transform the normal bored sessions into interactive one. This will enable the presenter to interact with his audience in a funny yet systematic way during the session. 
 
+
+#### Screenshots
+<div style="dispaly: flex: justify-content: center">
+<img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/SIGNUP.PNG?raw=true" alt = "signUP Page" width="48%"/> 
+  <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/Home-subs.PNG?raw=true" alt = "Home" width="48%"/> 
+ <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/start-2.PNG?raw=true" alt = "Start Screen" width="48%"/>
+ <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/ques-1.PNG?raw=true" width="48%"/>
+ </div>
+ <br/>
 
 
 
