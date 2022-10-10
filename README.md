@@ -96,6 +96,30 @@ An application that follows the blended learning techniques. This application wi
 
 
 
+ # <a href="https://tic-tac-toe-multiplay.netlify.app/">Tic Tac Toe Multiplayer🎮ga</a>
+#### ⚡️ Built with
+- ReactJS
+- Web Sockets
+- React-Router-Dom
+#### About
+A multiplayer Tic Tac Toe game that can be played over the internet (using  Websockets).
+PLayer 1 creates a room with a random unique ID and gets assigned with “X”. Waits for player 2 to join.
+PLayer 2 joins the room with that unique ID and gets assigned with “O”. Game begins.
+
+
+#### Screenshots
+<div style="dispaly: flex: justify-content: center">
+<img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/room-1.png?raw=true" alt = "create room" width="48%"/> 
+ <img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/player-x.PNG?raw=true" alt = "player x waits" width="48%"/>
+  <img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/room-2.png?raw=true" alt = "join room" width="48%"/> 
+ <img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/game.png?raw=true" width="48%"/>
+ </div>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+
 
 
 
