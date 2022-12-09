@@ -1,5 +1,5 @@
 <h1 align="center">🔰 Hi, I'm Ahindra D 🔰</h1>
-<h3 align="center">💠 Full-Stack Developer | Automation | Scripting 💠</h3>
+<h2 align="center">💠 Full-Stack Developer | Automation | Scripting 💠</h2>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 </a> 
 
 <a href="https://www.codewars.com/users/AhindraD">
-  <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewarsr&logoColor=white">
+  <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white">
 </a> 
 </div>
 
