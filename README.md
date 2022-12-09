@@ -1,5 +1,5 @@
 <h1 align="center">🔰 Hi, I'm Ahindra D 🔰</h1>
-<h2 align="center">💠 Full-Stack Developer | Automation | Scripting 💠</h2>
+<h1 align="center">💠 Full-Stack Developer | Automation | Scripting 💠</h1>
 
 
 <div align="center">
