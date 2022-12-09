@@ -1,10 +1,8 @@
 <h1 align="center">🔰 Hi, I'm Ahindra D 🔰</h1>
-<h3 align="center">💠 Full Stack Web Developer 💠</h3>
+<h3 align="center">💠 Full-Stack Developer | Automation | Scripting 💠</h3>
 
 
 <div align="center">
-<h2>Connect With Me</h2>
-
 <a href="mailto:official.ahindra@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
