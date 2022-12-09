@@ -49,10 +49,10 @@ A platform which can connect patients with best doctors from around the world.
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
-<img src = "https://github.com/AhindraD/DocSeek---Frontend/blob/master/images/rsz_1signup-login.png?raw=true" alt = "login Page" width="48%"/> 
-  <img src = "https://github.com/AhindraD/DocSeek---Frontend/blob/master/images/rsz_11doctor-onboard.png?raw=true" alt = "Onboard Doctor" width="48%"/> 
- <img src = "https://github.com/AhindraD/DocSeek---Frontend/blob/master/images/rsz_1patient-home.png?raw=true" alt = "Dashbord" width="48%"/>
- <img src = "https://github.com/AhindraD/DocSeek---Frontend/blob/master/images/rsz_1patient-book-appointment.png?raw=true" alt="Booking Appointment" width="48%"/>
+<img src = "https://user-images.githubusercontent.com/83480142/206700003-2324dd20-8987-4b12-b1de-7980e981e88a.png" alt = "login Page" width="48%"/> 
+  <img src = "https://user-images.githubusercontent.com/83480142/206700908-819a1179-1423-4a8d-9956-01e3d18d60cd.png" alt = "Onboard Doctor" width="48%"/> 
+ <img src = "https://user-images.githubusercontent.com/83480142/206700018-c8299c47-2c40-4b78-b76f-01bd81efdc81.png" alt = "Dashbord" width="48%"/>
+ <img src = "https://user-images.githubusercontent.com/83480142/206700107-1eecb835-3bc8-4fc0-a8de-d8d962a599b3.png" alt="Booking Appointment" width="48%"/>
  </div>
  <br/>
  <br/>
@@ -70,10 +70,10 @@ Spotify Profile overview app which will fetch a Spotify user's info, recent acti
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
-<img src = "https://github.com/AhindraD/Spotify-App/blob/master/screenshots/snap1.PNG?raw=true" alt = "Home Page" width="48%"/> 
-  <img src = "https://github.com/AhindraD/Spotify-App/blob/master/screenshots/snap2.PNG?raw=true" alt = "Top Artists" width="48%"/> 
- <img src = "https://github.com/AhindraD/Spotify-App/blob/master/screenshots/snap3.PNG?raw=true" alt = "Top Songs" width="48%"/>
- <img src = "https://github.com/AhindraD/Spotify-App/blob/master/screenshots/spotify-login.PNG?raw=true" alt="Login" width="48%"/>
+<img src = "https://user-images.githubusercontent.com/83480142/206701132-63622c31-861d-4a05-85ee-38ef1bbfb159.PNG" alt = "Home Page" width="48%"/> 
+  <img src = "https://user-images.githubusercontent.com/83480142/206701135-bd6acbd2-1b18-4ba7-b2b0-f8035f1358df.PNG" alt = "Top Artists" width="48%"/> 
+ <img src = "https://user-images.githubusercontent.com/83480142/206701137-e5ebc4c6-3c87-42dd-bcd1-53df665132c1.PNG" alt = "Top Songs" width="48%"/>
+ <img src = "https://user-images.githubusercontent.com/83480142/206701139-7180bc4b-9080-48c4-bc26-86feb3d21003.PNG" alt="Login" width="48%"/>
  </div>
  <br/>
  <br/>
@@ -98,10 +98,10 @@ This will enable the presenter to interact with his audience in a funny yet syst
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
-<img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/SIGNUP.PNG?raw=true" alt = "signUP Page" width="48%"/> 
-  <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/Home-subs.PNG?raw=true" alt = "Home" width="48%"/> 
- <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/start-2.PNG?raw=true" alt = "Start Screen" width="48%"/>
- <img src = "https://github.com/AhindraD/QuizUP---FrontEnd/blob/master/images/ques-1.PNG?raw=true" width="48%"/>
+<img src = "https://user-images.githubusercontent.com/83480142/206699621-70133170-894f-4195-9e6e-0921d6586245.PNG" alt = "signUP Page" width="48%"/> 
+  <img src = "https://user-images.githubusercontent.com/83480142/206699632-a60d0ae7-49b3-4f86-9708-9913423baa79.PNG" alt = "Home" width="48%"/> 
+ <img src = "https://user-images.githubusercontent.com/83480142/206699749-1c84cedf-cb54-4e68-bc9c-10e862bf7c42.PNG" alt = "Start Screen" width="48%"/>
+ <img src = "https://user-images.githubusercontent.com/83480142/206699796-2e2ecb5a-bcd3-4947-8021-6c99ea19d5da.PNG" width="48%"/>
  </div>
  <br/>
  <br/>
@@ -126,10 +126,10 @@ PLayer 2 joins the room with that unique ID and gets assigned with “O”. Game
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
-<img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/room-1.png?raw=true" alt = "create room" width="48%"/> 
- <img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/player-x.PNG?raw=true" alt = "player x waits" width="48%"/>
-  <img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/room-2.png?raw=true" alt = "join room" width="48%"/> 
- <img src = "https://github.com/AhindraD/Tic-Tac-Toe-Frontend/blob/master/snaps/game.png?raw=true" width="48%"/>
+<img src = "https://user-images.githubusercontent.com/83480142/206700509-21393804-f0fa-4866-adf9-8caa7dac51a8.png" alt = "create room" width="48%"/> 
+ <img src = "https://user-images.githubusercontent.com/83480142/206700517-a1fdb7bc-572a-4fe9-8401-c0e96e1d90bb.PNG" alt = "player x waits" width="48%"/>
+  <img src = "https://user-images.githubusercontent.com/83480142/206700513-de666ba9-c487-4dd5-9ff9-2cedd4c817d0.png" alt = "join room" width="48%"/> 
+ <img src = "https://user-images.githubusercontent.com/83480142/206700514-6940984c-6dce-43b6-87e9-c1c26e4155e3.png" alt = "Game on" width="48%"/>
  </div>
  <br/>
  <br/>
