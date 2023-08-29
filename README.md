@@ -1,4 +1,6 @@
-<h1 align="center">🔰 Hi, I'm Ahindra D 🔰</h1>
+<div  align="center" width="100%"> 
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=11faf6&center=true&multiline=true&width=900&size=40&lines=+++🔰+++Hi,++I'm++Ahindra+D+++🔰+++" alt="ahindrad" width="100%"/>
+</div>
 <h1 align="center">💠 Full-Stack Developer | Automation | Scripting 💠</h1>
 
 
