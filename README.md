@@ -137,6 +137,9 @@ PLayer 2 joins the room with that unique ID and gets assigned with “O”. Game
 
 
 ## <p align=center >🔰Stats🔰</p>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="ahindrad" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="ahindrad" width="48%"/> -->
@@ -144,7 +147,4 @@ PLayer 2 joins the room with that unique ID and gets assigned with “O”. Game
  <div align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ahindrad"  width="48%"/>
    </div>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 </div>
