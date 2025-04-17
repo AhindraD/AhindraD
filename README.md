@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
   <!-- https://www.risein.com/@amazon -->
-<a href="https://www.risein.com/@amazon">
-  <img src="https://img.shields.io/badge/RiseIN-%23430098?style=for-the-badge&logo=ethereum&logoColor=white">
+<a href="https://earn.superteam.fun/t/ahindra/">
+  <img src="https://img.shields.io/badge/Superteam-%23430098?style=for-the-badge&logo=solana&logoColor=white">
 </a> 
   
 <a href="https://x.com/Ahindra_D">
