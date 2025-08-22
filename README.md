@@ -1,26 +1,33 @@
 <div  align="center" width="100%"> 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=11faf6&center=true&multiline=true&width=900&size=40&lines=+++🔰+++Hi,++I'm++Ahindra+D+++🔰+++" alt="ahindrad" width="100%"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=11faf6&center=true&multiline=true&width=900&size=40&lines=+++Gm+++GM!++I'm++Ahindra+++" alt="ahindrad" width="100%"/>
 </div>
 <h1 align="center">💠 Web3.0 | Full-Stack Engineer | Devops 💠</h1>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:official.ahindra@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://earn.superteam.fun/t/ahindra/">
+        <img src="https://img.shields.io/badge/Superteam-%23430098?style=for-the-badge&logo=solana&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/Ahindra_D">
+        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codewars.com/users/AhindraD">
+        <img src="https://img.shields.io/badge/Codewars-purple?style=for-the-badge&logo=codewars&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<a href="mailto:official.ahindra@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
-  <!-- https://www.risein.com/@amazon -->
-<a href="https://earn.superteam.fun/t/ahindra/">
-  <img src="https://img.shields.io/badge/Superteam-%23430098?style=for-the-badge&logo=solana&logoColor=white">
-</a> 
-  
-<a href="https://x.com/Ahindra_D">
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white">
-</a> 
-
-<a href="https://www.codewars.com/users/AhindraD">
-  <img src="https://img.shields.io/badge/Codewars-purple?style=for-the-badge&logo=codewars&logoColor=white">
-</a> 
-</div>
 
 <h2 align="center">🌟Languages and Tools🌟</h2>
 
@@ -61,11 +68,50 @@
 
 <br/>
 
+## <p align=center >🔰Stats🔰</p>
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="ahindrad" width="48%"/> -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://www.codewars.com/users/AhindraD/badges/large" alt="ahindra-codewars" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="streak" height="180"/>
+    </td>
+    <td align="center" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhindraD&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" aalt="stats" height="180"/>
+    </td>
+  </tr>
+</table>
+
+![Activity Graph with Theme](https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true)
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 ## <h2 align=center >🌟Personal Projects🌟</h2>
 
 # <a href="https://docseek.netlify.app/">Doc Seek🩺</a>
@@ -170,19 +216,16 @@ PLayer 2 joins the room with that unique ID and gets assigned with “O”. Game
  <br/>
 
 
-
-
-
-
-## <p align=center >🔰Stats🔰</p>
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="ahindrad" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="ahindrad" width="48%"/> -->
-  <img align="center" src="https://www.codewars.com/users/AhindraD/badges/large" alt="ahindra-codewars" />
- <div align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhindraD&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ahindrad"  width="48%"/>
-   </div>
-</div>
+-->
+
+
+
+
+
+
+
+
+
