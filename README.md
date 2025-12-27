@@ -69,6 +69,20 @@
 
 <br/>
 
+## <p align=center >⚡Solana Colosseum Hackathon⚡</p>
+<!-- <img width="832" height="752" alt="image" src="https://github.com/user-attachments/assets/2522cb38-2f7a-4f25-ac42-2d475e9781ed" /> -->
+<table align="center">
+  <tr>
+    <td align="center" colspan="4">
+		<a href="https://arena.colosseum.org/projects/explore/ralli-sports">
+        	<img src="https://github.com/user-attachments/assets/2522cb38-2f7a-4f25-ac42-2d475e9781ed">
+		</a>
+    </td>
+  </tr>
+</table>
+<br/>
+
+
 ## <p align=center >🔰Stats🔰</p>
 
 
