@@ -89,15 +89,26 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahindrad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="ahindrad" width="48%"/> -->
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="3">
       <img src="https://www.codewars.com/users/AhindraD/badges/large" alt="ahindra-codewars" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="1">
+     	<img width="1000" height="1000" alt="Ackee_School_of_Solana_8_Graduate" src="https://github.com/user-attachments/assets/8e2bbdf8-17f7-4de7-8191-671f40f40d67" />
+	</td>
+	<td align="center" colspan="1">
+    	 <img width="1000" alt="RektOff" src="https://github.com/user-attachments/assets/65a513b0-d077-4804-85e6-e58e24cf79c1" />
+    </td>
+	<td align="center" colspan="1">
+      <img width="1000" height="1000" alt="Ackee_School_of_Solana_6_Graduate" src="https://github.com/user-attachments/assets/40aeaea2-3d8f-4ed4-9c7e-ea71d46cd228" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="streak" height="180"/>
     </td>
-    <td align="center" >
+    <td align="center" colspan="1" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhindraD&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" aalt="stats" height="180"/>
     </td>
   </tr>
