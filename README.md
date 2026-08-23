@@ -92,25 +92,29 @@
   </tr>
   <tr>
     <td align="center" colspan="1">
-     	<img width="1000" height="1000" alt="Ackee_School_of_Solana_8_Graduate" src="https://github.com/user-attachments/assets/8e2bbdf8-17f7-4de7-8191-671f40f40d67" />
+     	<img width="300" height="300" alt="Ackee_School_of_Solana_8_Graduate" src="https://github.com/user-attachments/assets/8e2bbdf8-17f7-4de7-8191-671f40f40d67" />
 	</td>
 	<td align="center" colspan="1">
-    	 <img width="1000" alt="RektOff" src="https://github.com/user-attachments/assets/65a513b0-d077-4804-85e6-e58e24cf79c1" />
+    	 <img width="300" alt="RektOff" src="https://github.com/user-attachments/assets/65a513b0-d077-4804-85e6-e58e24cf79c1" />
     </td>
 	<td align="center" colspan="1">
-      <img width="1000" height="1000" alt="Ackee_School_of_Solana_6_Graduate" src="https://github.com/user-attachments/assets/40aeaea2-3d8f-4ed4-9c7e-ea71d46cd228" />
+      <img width="300" height="300" alt="Ackee_School_of_Solana_6_Graduate" src="https://github.com/user-attachments/assets/40aeaea2-3d8f-4ed4-9c7e-ea71d46cd228" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="1">
-     	<img height="1000" alt="Superteam India PRO Member" src="https://github.com/user-attachments/assets/c04a596b-aea4-4bc3-aaa4-a95a70155995" />
-	</td>
     <td align="center" colspan="2">
-     	<img  height="1000" alt="github streak with contributions stats per day" src="https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true" />
+     	<img height="300" alt="Superteam India PRO Member" src="https://github.com/user-attachments/assets/c04a596b-aea4-4bc3-aaa4-a95a70155995" />
+	</td>
+    <td align="center" colspan="1">
+     	<img width="300" height="300" alt="google-it-automation-with-python-professional-certi" src="https://github.com/user-attachments/assets/49095c4a-8eb2-43e7-9212-bc5d6c62d4d5" />
+	</td>
+  </tr>
+	<tr>	  
+    <td align="center" colspan="3">
+     	<img  height="300" alt="github streak with contributions stats per day" src="https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true" />
 	</td>
   </tr>
 </table>
-
 
 
 
