@@ -105,11 +105,15 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
-     	<img  alt="github streak with contributions stats per day" src="https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true" />
+    <td align="center" colspan="1">
+     	<img height="1000" alt="Superteam India PRO Member" src="https://github.com/user-attachments/assets/c04a596b-aea4-4bc3-aaa4-a95a70155995" />
+	</td>
+    <td align="center" colspan="2">
+     	<img  height="1000" alt="github streak with contributions stats per day" src="https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true" />
 	</td>
   </tr>
 </table>
+
 
 
 
