@@ -105,35 +105,37 @@
     </td>
   </tr>
   <tr>
+    <td align="center" colspan="3">
+     	<img  alt="github streak with contributions stats per day" src="https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true" />
+	</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- <tr>
     <td align="center" colspan="2">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="streak" height="180"/>
     </td>
     <td align="center" colspan="1" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhindraD&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" aalt="stats" height="180"/>
     </td>
-  </tr>
-</table>
-
-![Activity Graph with Theme](https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  </tr> -->
 
 
 
