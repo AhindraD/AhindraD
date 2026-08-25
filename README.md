@@ -109,10 +109,13 @@
      	<img width="300" height="300" alt="google-it-automation-with-python-professional-certi" src="https://github.com/user-attachments/assets/49095c4a-8eb2-43e7-9212-bc5d6c62d4d5" />
 	</td>
   </tr>
-	<tr>	  
-    <td align="center" colspan="3">
+  <tr>	
+	<td align="center" colspan="3" >
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahindrad&theme=nightowl&hide_border=false" alt="streak" height="300"/>
+    </td>
+    <!-- <td align="center" colspan="3">
      	<img  height="300" alt="github streak with contributions stats per day" src="https://github-readme-activity-graph.vercel.app/graph?username=AhindraD&theme=nightowl&area=true" />
-	</td>
+	</td> -->
   </tr>
 </table>
 
